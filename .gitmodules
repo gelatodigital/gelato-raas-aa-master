@@ -1,0 +1,6 @@
+[submodule "aa-ui-starter-kit"]
+	path = aa-ui-starter-kit
+	url = https://github.com/gelatodigital/gelato-raas-aa-ui-starter
+[submodule "zkatana-starter-kit"]
+	path = zkatana-starter-kit
+	url = https://github.com/gelatodigital/astar-zkatana-starter-kit
