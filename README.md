@@ -38,3 +38,11 @@ In this project we showcase how to implement Account Abstraction and gasless tra
 Please visit the [zKatana Starter Kit](https://github.com/gelatodigital/astar-zkatana-starter-kit)
 
 
+## Ressources
+[web3Auth docs](https://web3auth.io/docs)
+[Safe docs](https://docs.safe.global/getting-started/readme)
+[Gelato Relay docs](https://docs.gelato.network/developer-services/relay)
+
+[zkatana-gelato-protocol-kit](https://www.npmjs.com/package/zkatana-gelato-protocol-kit)
+[zkatana-gelato-account-abstraction-kit](https://www.npmjs.com/package/zkatana-gelato-account-abstraction-kit)
+[zkatana-gelato-relay-kit](https://www.npmjs.com/package/zkatana-gelato-relay-kit)
