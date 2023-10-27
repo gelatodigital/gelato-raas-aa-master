@@ -20,7 +20,7 @@ Following SDKs are required
 
 The packages `zkatana-gelato-account-abstraction-kit`, `zkatana-gelato-relay-kit` implement under the hood the custom packages `zkatana-gelato-protocol-kit` and ` zkatana-gelato-safe-deployments`
 
-We have prepared two starter kits to get up and running. One with a React UI implementation and the secong with a backend implementation  
+We have prepared two starter kits to get up and running. One with a React UI implementation and the second with a backend implementation  
 
 
 ## AA UI Starter Kit  
