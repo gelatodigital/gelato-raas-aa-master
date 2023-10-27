@@ -2,7 +2,6 @@
 
 This repo contains the approach to Account Abstraction (AA) on Gelato Raas. 
 For the time being we have deployed one solution for AA using web3Auth, Safe and Gelato Relay. However, moving forward we will add other solutions.  
-The current solution is not ERC-4337 compatible.
 
 ## Web3Auth / Safe / Gelato Relay
 
