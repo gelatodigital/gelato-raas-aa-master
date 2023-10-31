@@ -3,6 +3,9 @@
 This repo contains the approach to Account Abstraction (AA) on Gelato Raas. 
 For the time being we have deployed one solution for AA using web3Auth, Safe and Gelato Relay. However, moving forward we will add other solutions.  
 
+[![Video Walkthrough](https://img.youtube.com/vi/2_orD-Z5uW4/0.jpg)](https://youtu.be/2_orD-Z5uW4)
+
+
 ## Web3Auth / Safe / Gelato Relay
 
 <img src="docs/aa-flow.png" width="400">
